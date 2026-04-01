@@ -1,0 +1,101 @@
+transaction_id,card_id,transaction_amount,merchant_name,merchant_category,country,timestamp,transaction_type
+1,1234567890123456,100.50,Amazon,Online Retail,US,2023-10-01 10:00:00,purchase
+2,1234567890123456,25.00,Starbucks,Coffee Shops,US,2023-10-01 10:30:00,purchase
+3,1234567890123456,500.00,Unknown,Unknown,RU,2023-10-01 11:00:00,purchase
+4,9876543210987654,50.00,Walmart,Retail,US,2023-10-01 11:15:00,purchase
+5,1234567890123456,200.00,Best Buy,Electronics,US,2023-10-01 12:00:00,purchase
+6,1234567890123456,1000.00,Crypto Exchange,Finance,CH,2023-10-01 12:30:00,purchase
+7,5555666677778888,75.00,Target,Retail,US,2023-10-01 13:00:00,purchase
+8,1234567890123456,150.00,Hotel Booking,Travel,FR,2023-10-01 14:00:00,purchase
+9,9876543210987654,30.00,Gas Station,Automotive,US,2023-10-01 14:30:00,purchase
+10,1234567890123456,250.00,Electronics Store,Electronics,CA,2023-10-01 15:00:00,purchase
+11,5555666677778888,120.00,Grocery Store,Groceries,US,2023-10-01 15:30:00,purchase
+12,9876543210987654,85.00,Restaurant,Food,US,2023-10-01 16:00:00,purchase
+13,1234567890123456,45.00,Pharmacy,Health,US,2023-10-01 16:30:00,purchase
+14,5555666677778888,300.00,Apple Store,Electronics,US,2023-10-01 17:00:00,purchase
+15,1111222233334444,25.00,Coffee Shop,Coffee Shops,CA,2023-10-01 17:30:00,purchase
+16,9876543210987654,150.00,Home Depot,Home Improvement,US,2023-10-01 18:00:00,purchase
+17,1234567890123456,75.00,Netflix,Entertainment,US,2023-10-01 18:30:00,purchase
+18,5555666677778888,200.00,Sports Store,Sports,US,2023-10-01 19:00:00,purchase
+19,1111222233334444,50.00,Book Store,Books,UK,2023-10-01 19:30:00,purchase
+20,9876543210987654,90.00,Drug Store,Health,US,2023-10-01 20:00:00,purchase
+21,1234567890123456,400.00,Unknown Vendor,Unknown,CN,2023-10-01 20:30:00,purchase
+22,5555666677778888,35.00,Fast Food,Food,US,2023-10-01 21:00:00,purchase
+23,1111222233334444,180.00,Clothing Store,Retail,US,2023-10-01 21:30:00,purchase
+24,9876543210987654,60.00,Gas Station,Automotive,US,2023-10-01 22:00:00,purchase
+25,1234567890123456,800.00,Crypto Wallet,Finance,JP,2023-10-01 22:30:00,purchase
+26,5555666677778888,95.00,Department Store,Retail,US,2023-10-01 23:00:00,purchase
+27,1111222233334444,40.00,Bakery,Food,FR,2023-10-01 23:30:00,purchase
+28,9876543210987654,250.00,Auto Parts,Automotive,US,2023-10-02 08:00:00,purchase
+29,1234567890123456,120.00,Online Shopping,Online Retail,DE,2023-10-02 08:30:00,purchase
+30,5555666677778888,55.00,Coffee Drive-thru,Coffee Shops,US,2023-10-02 09:00:00,purchase
+31,1111222233334444,300.00,Electronics Superstore,Electronics,US,2023-10-02 09:30:00,purchase
+32,9876543210987654,25.00,Dollar Store,Retail,US,2023-10-02 10:00:00,purchase
+33,1234567890123456,600.00,Dark Web Marketplace,Unknown,RU,2023-10-02 10:30:00,purchase
+34,5555666677778888,110.00,Grocery Chain,Groceries,US,2023-10-02 11:00:00,purchase
+35,1111222233334444,75.00,Movie Theater,Entertainment,US,2023-10-02 11:30:00,purchase
+36,9876543210987654,180.00,Hardware Store,Home Improvement,US,2023-10-02 12:00:00,purchase
+37,1234567890123456,90.00,Fast Food Chain,Food,US,2023-10-02 12:30:00,purchase
+38,5555666677778888,450.00,Luxury Store,Retail,IT,2023-10-02 13:00:00,purchase
+39,1111222233334444,30.00,Convenience Store,Retail,CA,2023-10-02 13:30:00,purchase
+40,9876543210987654,140.00,Sporting Goods,Sports,US,2023-10-02 14:00:00,purchase
+41,1234567890123456,75.00,Subscription Service,Entertainment,US,2023-10-02 14:30:00,purchase
+42,5555666677778888,220.00,Furniture Store,Home,US,2023-10-02 15:00:00,purchase
+43,1111222233334444,65.00,Pharmacy Chain,Health,US,2023-10-02 15:30:00,purchase
+44,9876543210987654,95.00,Restaurant Chain,Food,US,2023-10-02 16:00:00,purchase
+45,1234567890123456,350.00,Travel Agency,Travel,BR,2023-10-02 16:30:00,purchase
+46,5555666677778888,40.00,Coffee Shop,Coffee Shops,US,2023-10-02 17:00:00,purchase
+47,1111222233334444,280.00,Jewelry Store,Luxury,US,2023-10-02 17:30:00,purchase
+48,9876543210987654,55.00,Gas Station Chain,Automotive,US,2023-10-02 18:00:00,purchase
+49,1234567890123456,1200.00,Crypto Exchange High Volume,Finance,KR,2023-10-02 18:30:00,purchase
+50,5555666677778888,85.00,Bookstore,Books,US,2023-10-02 19:00:00,purchase
+51,1111222233334444,160.00,Shoe Store,Retail,US,2023-10-02 19:30:00,purchase
+52,9876543210987654,70.00,Drug Store Chain,Health,US,2023-10-02 20:00:00,purchase
+53,1234567890123456,95.00,Online Marketplace,Online Retail,IN,2023-10-02 20:30:00,purchase
+54,5555666677778888,190.00,Department Store,Retail,US,2023-10-02 21:00:00,purchase
+55,1111222233334444,45.00,Ice Cream Shop,Food,US,2023-10-02 21:30:00,purchase
+56,9876543210987654,320.00,Electronics Retailer,Electronics,US,2023-10-02 22:00:00,purchase
+57,1234567890123456,60.00,Streaming Service,Entertainment,US,2023-10-02 22:30:00,purchase
+58,5555666677778888,275.00,Home Improvement,Home Improvement,MX,2023-10-02 23:00:00,purchase
+59,1111222233334444,35.00,Convenience Store,Retail,US,2023-10-02 23:30:00,purchase
+60,9876543210987654,410.00,Unknown Online Store,Unknown,UA,2023-10-03 08:00:00,purchase
+61,1234567890123456,110.00,Grocery Delivery,Groceries,US,2023-10-03 08:30:00,purchase
+62,5555666677778888,85.00,Coffee Roasters,Coffee Shops,US,2023-10-03 09:00:00,purchase
+63,1111222233334444,240.00,Sporting Goods Store,Sports,US,2023-10-03 09:30:00,purchase
+64,9876543210987654,30.00,Newsstand,Retail,US,2023-10-03 10:00:00,purchase
+65,1234567890123456,750.00,Crypto Mining Service,Finance,VN,2023-10-03 10:30:00,purchase
+66,5555666677778888,125.00,Restaurant,Food,US,2023-10-03 11:00:00,purchase
+67,1111222233334444,95.00,Music Store,Entertainment,US,2023-10-03 11:30:00,purchase
+68,9876543210987654,180.00,Auto Repair,Automotive,US,2023-10-03 12:00:00,purchase
+69,1234567890123456,55.00,Fast Casual,Food,US,2023-10-03 12:30:00,purchase
+70,5555666677778888,360.00,Luxury Boutique,Retail,FR,2023-10-03 13:00:00,purchase
+71,1111222233334444,40.00,Pharmacy,Health,CA,2023-10-03 13:30:00,purchase
+72,9876543210987654,290.00,Electronics Warehouse,Electronics,US,2023-10-03 14:00:00,purchase
+73,1234567890123456,80.00,Subscription Box,Retail,US,2023-10-03 14:30:00,purchase
+74,5555666677778888,175.00,Furniture Outlet,Home,US,2023-10-03 15:00:00,purchase
+75,1111222233334444,65.00,Dental Office,Health,US,2023-10-03 15:30:00,purchase
+76,9876543210987654,135.00,Sports Bar,Food,US,2023-10-03 16:00:00,purchase
+77,1234567890123456,420.00,Travel Booking,Travel,AU,2023-10-03 16:30:00,purchase
+78,5555666677778888,50.00,Coffee Cart,Coffee Shops,US,2023-10-03 17:00:00,purchase
+79,1111222233334444,310.00,Jewelry Chain,Luxury,US,2023-10-03 17:30:00,purchase
+80,9876543210987654,75.00,Gas Station,Automotive,US,2023-10-03 18:00:00,purchase
+81,1234567890123456,950.00,High Risk Crypto,Finance,NG,2023-10-03 18:30:00,purchase
+82,5555666677778888,105.00,Department Store,Retail,US,2023-10-03 19:00:00,purchase
+83,1111222233334444,55.00,Bakery,Food,DE,2023-10-03 19:30:00,purchase
+84,9876543210987654,225.00,Home Goods,Home,US,2023-10-03 20:00:00,purchase
+85,1234567890123456,145.00,Online Retailer,Online Retail,SG,2023-10-03 20:30:00,purchase
+86,5555666677778888,70.00,Fast Food,Food,US,2023-10-03 21:00:00,purchase
+87,1111222233334444,195.00,Clothing Retailer,Retail,US,2023-10-03 21:30:00,purchase
+88,9876543210987654,85.00,Pharmacy Chain,Health,US,2023-10-03 22:00:00,purchase
+89,1234567890123456,580.00,Suspicious Vendor,Unknown,TR,2023-10-03 22:30:00,purchase
+90,5555666677778888,115.00,Grocery Store,Groceries,US,2023-10-03 23:00:00,purchase
+91,1111222233334444,40.00,Movie Rental,Entertainment,US,2023-10-03 23:30:00,purchase
+92,9876543210987654,265.00,Electronics Store,Electronics,CA,2023-10-04 08:00:00,purchase
+93,1234567890123456,90.00,Food Delivery,Food,US,2023-10-04 08:30:00,purchase
+94,5555666677778888,330.00,Luxury Goods,Luxury,IT,2023-10-04 09:00:00,purchase
+95,1111222233334444,25.00,Coffee Shop,Coffee Shops,UK,2023-10-04 09:30:00,purchase
+96,9876543210987654,155.00,Sporting Equipment,Sports,US,2023-10-04 10:00:00,purchase
+97,1234567890123456,75.00,Streaming Platform,Entertainment,US,2023-10-04 10:30:00,purchase
+98,5555666677778888,285.00,Furniture Store,Home,US,2023-10-04 11:00:00,purchase
+99,1111222233334444,60.00,Drug Store,Health,US,2023-10-04 11:30:00,purchase
+100,9876543210987654,195.00,Restaurant,Food,US,2023-10-04 12:00:00,purchase
